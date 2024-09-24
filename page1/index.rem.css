@@ -1,0 +1,200 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 38.4rem;
+  height: 71.68rem;
+  overflow: hidden;
+}
+
+.image_1 {
+  height: 15.014rem;
+  background: url(./img/FigmaDDSSlicePNGb36a38371a56afff48719646436724e9.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: -0.026rem;
+  width: 38.4rem;
+}
+
+.text_11 {
+  width: 27.04rem;
+  height: 3.84rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.266rem;
+  font-family: Italiana-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.267rem;
+  margin: 1.12rem 0 0 5.68rem;
+}
+
+.block_1 {
+  height: 56.694rem;
+  background: url(./img/FigmaDDSSlicePNG770ba6c828b80151fcdc53c62049f77c.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 38.4rem;
+}
+
+.text-wrapper_2 {
+  width: 35.467rem;
+  height: 6.854rem;
+  margin: 0.24rem 0 0 0.24rem;
+}
+
+.text_1 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 13.494rem;
+  height: 3.307rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 2.56rem;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 2.56rem;
+  margin-top: 1.787rem;
+}
+
+.text_2 {
+  width: 17.307rem;
+  height: 6.854rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 2.56rem;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+}
+
+.group_1 {
+  width: 36.134rem;
+  height: 42.694rem;
+  margin: 0.72rem 0 6.187rem 1.44rem;
+}
+
+.text-wrapper_3 {
+  width: 11.067rem;
+  height: 33.707rem;
+}
+
+.text_3 {
+  width: 11.067rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+}
+
+.text_4 {
+  width: 10.347rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+  margin: 2.827rem 0 0 0.347rem;
+}
+
+.text_5 {
+  width: 10.427rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+  margin: 2.8rem 0 0 0.347rem;
+}
+
+.text_6 {
+  width: 10.72rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+  margin: 1.947rem 0 0 0.16rem;
+}
+
+.text_7 {
+  width: 10.427rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+  margin: 3.68rem 0 0 0.347rem;
+}
+
+.text_8 {
+  width: 10.427rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+  margin: 2.827rem 0 0 0.454rem;
+}
+
+.text_9 {
+  width: 10.427rem;
+  height: 2.4rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 1.706rem;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.707rem;
+  margin: 2.827rem 0 0 0.347rem;
+}
+
+.paragraph_1 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 21.094rem;
+  height: 41.867rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.96rem;
+  font-family: Libre Caslon Text-Bold;
+  font-weight: 700;
+  text-align: left;
+  margin-top: 0.827rem;
+}

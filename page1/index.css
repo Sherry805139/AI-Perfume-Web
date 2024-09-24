@@ -1,0 +1,198 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 1440px;
+  height: 2688px;
+  overflow: hidden;
+}
+
+.image_1 {
+  height: 563px;
+  background: url(./img/FigmaDDSSlicePNGb36a38371a56afff48719646436724e9.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: -1px;
+  width: 1440px;
+}
+
+.text_11 {
+  width: 1014px;
+  height: 144px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 160px;
+  font-family: Italiana-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 160px;
+  margin: 42px 0 0 213px;
+}
+
+.block_1 {
+  height: 2126px;
+  background: url(./img/FigmaDDSSlicePNG770ba6c828b80151fcdc53c62049f77c.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 1440px;
+}
+
+.text-wrapper_2 {
+  width: 1330px;
+  height: 257px;
+  margin: 9px 0 0 9px;
+}
+
+.text_1 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 506px;
+  height: 124px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 96px;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 96px;
+  margin-top: 67px;
+}
+
+.text_2 {
+  width: 649px;
+  height: 257px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 96px;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+}
+
+.group_1 {
+  width: 1355px;
+  height: 1601px;
+  margin: 27px 0 232px 54px;
+}
+
+.text-wrapper_3 {
+  width: 415px;
+  height: 1264px;
+}
+
+.text_3 {
+  width: 415px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+}
+
+.text_4 {
+  width: 388px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+  margin: 106px 0 0 13px;
+}
+
+.text_5 {
+  width: 391px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+  margin: 105px 0 0 13px;
+}
+
+.text_6 {
+  width: 402px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+  margin: 73px 0 0 6px;
+  line-height: 1.1;
+}
+
+.text_7 {
+  width: 391px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+  margin: 138px 0 0 13px;
+}
+
+.text_8 {
+  width: 391px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+  margin: 106px 0 0 17px;
+}
+
+.text_9 {
+  width: 391px;
+  height: 90px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 64px;
+  font-family: SimSun;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 64px;
+  margin: 106px 0 0 13px;
+}
+
+.paragraph_1 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 791px;
+  height: 1570px;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 30px;
+  font-family: STSong;
+  font-weight: 700;
+  text-align: left;
+  margin-top: 31px;
+  line-height: 2;
+}

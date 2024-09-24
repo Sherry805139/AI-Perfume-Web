@@ -1,0 +1,196 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 186.67vw;
+  overflow: hidden;
+}
+
+.image_1 {
+  height: 39.1vw;
+  background: url(./img/FigmaDDSSlicePNGb36a38371a56afff48719646436724e9.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  margin-top: -0.06vw;
+  width: 100vw;
+}
+
+.text_11 {
+  width: 70.42vw;
+  height: 10vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 11.11vw;
+  font-family: Italiana-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 11.12vw;
+  margin: 2.91vw 0 0 14.79vw;
+}
+
+.block_1 {
+  height: 147.64vw;
+  background: url(./img/FigmaDDSSlicePNG770ba6c828b80151fcdc53c62049f77c.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+  width: 100vw;
+}
+
+.text-wrapper_2 {
+  width: 92.37vw;
+  height: 17.85vw;
+  margin: 0.62vw 0 0 0.62vw;
+}
+
+.text_1 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 35.14vw;
+  height: 8.62vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 6.66vw;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin-top: 4.66vw;
+}
+
+.text_2 {
+  width: 45.07vw;
+  height: 17.85vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 6.66vw;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+}
+
+.group_1 {
+  width: 94.1vw;
+  height: 111.19vw;
+  margin: 1.87vw 0 16.11vw 3.75vw;
+}
+
+.text-wrapper_3 {
+  width: 28.82vw;
+  height: 87.78vw;
+}
+
+.text_3 {
+  width: 28.82vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+}
+
+.text_4 {
+  width: 26.95vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+  margin: 7.36vw 0 0 0.9vw;
+}
+
+.text_5 {
+  width: 27.16vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+  margin: 7.29vw 0 0 0.9vw;
+}
+
+.text_6 {
+  width: 27.92vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+  margin: 5.06vw 0 0 0.41vw;
+}
+
+.text_7 {
+  width: 27.16vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+  margin: 9.58vw 0 0 0.9vw;
+}
+
+.text_8 {
+  width: 27.16vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+  margin: 7.36vw 0 0 1.18vw;
+}
+
+.text_9 {
+  width: 27.16vw;
+  height: 6.25vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 4.44vw;
+  font-family: Libre Caslon Text-Regular;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 4.45vw;
+  margin: 7.36vw 0 0 0.9vw;
+}
+
+.paragraph_1 {
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 54.94vw;
+  height: 109.03vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 2.5vw;
+  font-family: Libre Caslon Text-Bold;
+  font-weight: 700;
+  text-align: left;
+  margin-top: 2.16vw;
+}
