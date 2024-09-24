@@ -252,10 +252,11 @@
   height: 1570px;
   overflow-wrap: break-word;
   color: rgba(255, 255, 255, 1);
-  font-size: 28px;
+  font-size: 26px;
   font-family: STSong;
   font-weight: 700;
   text-align: left;
-  margin-top: 31px;
-  line-height: 2;
+  margin-top: 0px;
+  line-height: 1.6;
+  margin-bottom: 5px;
 }
