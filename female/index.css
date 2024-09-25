@@ -74,10 +74,10 @@
   height: 53px;
   overflow-wrap: break-word;
   color: rgba(255, 255, 255, 1);
-  font-size: 40px;
+  font-size: 35px;
   font-family: Italiana-Regular;
   font-weight: NaN;
-  text-align: left;
+  text-align: center;
   white-space: nowrap;
   line-height: 40px;
   margin: 1313px 0 22px 24px;
@@ -106,7 +106,7 @@
   overflow-wrap: break-word;
   color: rgba(255, 255, 255, 1);
   font-size: 40px;
-  font-family: Italiana-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
@@ -125,7 +125,7 @@
   left: 0;
   bottom: 19px;
   /* 调整横线的位置 */
-  width: 115px;
+  width: 113px;
   height: 3.5px;
   /* 横线的粗细 */
   background-color: rgba(255, 255, 255, 1);
@@ -460,7 +460,7 @@
   overflow-wrap: break-word;
   color: rgba(0, 0, 0, 1);
   font-size: 64px;
-  font-family: Abhaya Libre ExtraBold-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
@@ -474,7 +474,7 @@
   overflow-wrap: break-word;
   color: rgba(0, 0, 0, 1);
   font-size: 64px;
-  font-family: Abhaya Libre ExtraBold-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
@@ -713,7 +713,7 @@
   overflow-wrap: break-word;
   color: rgba(0, 0, 0, 1);
   font-size: 64px;
-  font-family: Abhaya Libre ExtraBold-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
@@ -735,7 +735,7 @@
   overflow-wrap: break-word;
   color: rgba(0, 0, 0, 1);
   font-size: 64px;
-  font-family: Abhaya Libre ExtraBold-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
@@ -757,7 +757,7 @@
   overflow-wrap: break-word;
   color: rgba(0, 0, 0, 1);
   font-size: 64px;
-  font-family: Abhaya Libre ExtraBold-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
@@ -795,7 +795,7 @@
   overflow-wrap: break-word;
   color: rgba(0, 0, 0, 1);
   font-size: 48px;
-  font-family: Italiana-Regular;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
 }
