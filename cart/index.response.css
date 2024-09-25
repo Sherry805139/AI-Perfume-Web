@@ -1,0 +1,640 @@
+.page {
+  background-color: rgba(255, 255, 255, 1);
+  position: relative;
+  width: 100vw;
+  height: 165.07vw;
+  overflow: hidden;
+}
+
+.block_1 {
+  background-image: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 1) 0,
+    rgba(146, 145, 145, 1) 100%
+  );
+  width: 87.5vw;
+  height: 16.6vw;
+}
+
+.text_1 {
+  width: 35.28vw;
+  height: 5.07vw;
+  overflow-wrap: break-word;
+  color: rgba(10, 10, 10, 1);
+  font-size: 2.77vw;
+  font-family: Italiana-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+  margin: 1.66vw 0 0 1.8vw;
+}
+
+.text_2 {
+  width: 21.74vw;
+  height: 9.17vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 6.66vw;
+  font-family: Italiana-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 6.67vw;
+  margin: -1.52vw 0 2.22vw 34.51vw;
+}
+
+.block_2 {
+  background-color: rgba(240, 236, 236, 0.74);
+  width: 87.5vw;
+  height: 148.48vw;
+  margin-left: 5.91vw;
+}
+
+.group_9 {
+  width: 84.38vw;
+  height: 66.88vw;
+  margin: 3.05vw 0 0 1.8vw;
+}
+
+.box_5 {
+  width: 48.48vw;
+  height: 66.88vw;
+}
+
+.group_2 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 40px;
+  height: 30.77vw;
+  width: 48.48vw;
+}
+
+.block_3 {
+  width: 50.56vw;
+  height: 4.24vw;
+  margin: 2.08vw 0 0 1.59vw;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  width: 3.48vw;
+  height: 3.69vw;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.text_3 {
+  width: 46.05vw;
+  height: 3.96vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+  margin-top: 0.28vw;
+}
+
+.text-wrapper_12 {
+  width: 40.14vw;
+  height: 17.78vw;
+  margin: 0.69vw 0 0 6.38vw;
+}
+
+.paragraph_1 {
+  width: 40.14vw;
+  height: 17.78vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.block_4 {
+  width: 25.14vw;
+  height: 3.62vw;
+  margin: 1.18vw 0 1.18vw 23.75vw;
+}
+
+.text-wrapper_4 {
+  width: 25.14vw;
+  height: 3.62vw;
+  overflow-wrap: break-word;
+  font-size: 0;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.text_4 {
+  width: 25.14vw;
+  height: 3.62vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.text_5 {
+  width: 25.14vw;
+  height: 3.62vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.text_6 {
+  width: 25.14vw;
+  height: 3.62vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 2.5vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.5vw;
+}
+
+.text_7 {
+  width: 25.14vw;
+  height: 3.62vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.text_8 {
+  width: 25.14vw;
+  height: 3.62vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 4.44vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.45vw;
+}
+
+.group_3 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 40px;
+  height: 30.77vw;
+  margin-top: 5.35vw;
+  width: 48.48vw;
+  position: relative;
+}
+
+.box_6 {
+  width: 36.95vw;
+  height: 17.85vw;
+  margin: 6.18vw 0 0 6.38vw;
+}
+
+.text-wrapper_5 {
+  width: 36.95vw;
+  height: 17.85vw;
+  overflow-wrap: break-word;
+  font-size: 0;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.paragraph_2 {
+  width: 36.95vw;
+  height: 17.85vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.text_9 {
+  width: 36.95vw;
+  height: 17.85vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  text-decoration: underline;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.box_7 {
+  width: 18.55vw;
+  height: 5.84vw;
+  margin: 0.9vw 0 0 28.54vw;
+}
+
+.text-wrapper_6 {
+  width: 18.55vw;
+  height: 5.84vw;
+  overflow-wrap: break-word;
+  font-size: 0;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.45vw;
+}
+
+.text_10 {
+  width: 18.55vw;
+  height: 5.84vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 4.44vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.45vw;
+}
+
+.text_11 {
+  width: 18.55vw;
+  height: 5.84vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.text_12 {
+  width: 18.55vw;
+  height: 5.84vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 4.44vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 4.45vw;
+}
+
+.box_8 {
+  position: absolute;
+  left: 1.6vw;
+  top: 1.81vw;
+  width: 50.35vw;
+  height: 5.91vw;
+}
+
+.group_7 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  width: 3.48vw;
+  height: 3.75vw;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.text-wrapper_7 {
+  width: 45.28vw;
+  height: 5.7vw;
+  overflow-wrap: break-word;
+  font-size: 0;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  margin-top: 0.21vw;
+}
+
+.text_13 {
+  width: 45.28vw;
+  height: 5.7vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.text_14 {
+  width: 45.28vw;
+  height: 5.7vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Italiana-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.box_9 {
+  position: relative;
+  width: 32.09vw;
+  height: 66.88vw;
+  margin-left: 2.85vw;
+}
+
+.section_4 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 40px;
+  width: 32.09vw;
+  height: 15.84vw;
+  margin-top: 4.17vw;
+}
+
+.paragraph_3 {
+  width: 29.17vw;
+  height: 15.21vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.5vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  margin: 0.9vw 0 0 0.62vw;
+}
+
+.section_5 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 40px;
+  width: 32.09vw;
+  height: 11.12vw;
+  margin-top: 4.24vw;
+}
+
+.text_15 {
+  width: 11.74vw;
+  height: 3.2vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.63vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.64vw;
+  margin: 1.04vw 0 0 0.62vw;
+}
+
+.section_6 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 40px;
+  width: 32.09vw;
+  height: 11.19vw;
+}
+
+.text_16 {
+  position: absolute;
+  left: 0.63vw;
+  top: 0;
+  width: 13.41vw;
+  height: 4.73vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.text_17 {
+  position: absolute;
+  left: 0.63vw;
+  top: 37.44vw;
+  width: 13.41vw;
+  height: 3.27vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.63vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.64vw;
+}
+
+.paragraph_4 {
+  width: 31.25vw;
+  height: 20.63vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.5vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  margin: 1.87vw 0 0 -30.27vw;
+}
+
+.section_7 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 40px;
+  height: 26.39vw;
+  width: 83.41vw;
+  margin: 4.79vw 0 0 1.8vw;
+}
+
+.text-wrapper_13 {
+  width: 10.49vw;
+  height: 4.17vw;
+  margin: 0.69vw 0 0 4.23vw;
+}
+
+.text_18 {
+  width: 10.49vw;
+  height: 4.17vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.text-wrapper_14 {
+  width: 26.39vw;
+  height: 2.99vw;
+  margin: 6.8vw 0 0 4.65vw;
+}
+
+.text_19 {
+  width: 26.39vw;
+  height: 2.99vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+}
+
+.box_10 {
+  width: 76.46vw;
+  height: 7.09vw;
+  margin: 2.29vw 0 2.36vw 4.65vw;
+}
+
+.box_2 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  width: 3.48vw;
+  height: 3.75vw;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.text_20 {
+  width: 9.66vw;
+  height: 3.82vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+  margin: 0.69vw 0 0 1.31vw;
+}
+
+.box_3 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  width: 3.48vw;
+  height: 3.75vw;
+  border: 1px solid rgba(0, 0, 0, 1);
+  margin-left: 4.94vw;
+}
+
+.text_21 {
+  width: 7.85vw;
+  height: 4.1vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+  margin: 0.76vw 0 0 2.43vw;
+}
+
+.box_4 {
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  width: 3.48vw;
+  height: 3.75vw;
+  border: 1px solid rgba(0, 0, 0, 1);
+  margin-left: 3.89vw;
+}
+
+.text_22 {
+  width: 12.92vw;
+  height: 4.24vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 2.77vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.78vw;
+  margin: 0.69vw 0 0 2.43vw;
+}
+
+.text-wrapper_10 {
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 40px;
+  height: 6.74vw;
+  width: 17.16vw;
+  margin: 0.34vw 0 0 3.47vw;
+}
+
+.text_23 {
+  width: 13.27vw;
+  height: 3.48vw;
+  overflow-wrap: break-word;
+  color: rgba(0, 0, 0, 1);
+  font-size: 3.33vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 3.34vw;
+  margin: 1.59vw 0 0 6.18vw;
+}
+
+.text-wrapper_11 {
+  width: 82.92vw;
+  height: 28.96vw;
+  overflow-wrap: break-word;
+  font-size: 0;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+  margin: 4.02vw 0 0 5.27vw;
+}
+
+.paragraph_5 {
+  width: 82.92vw;
+  height: 28.96vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 2.22vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.paragraph_6 {
+  width: 82.92vw;
+  height: 28.96vw;
+  overflow-wrap: break-word;
+  color: rgba(146, 145, 145, 1);
+  font-size: 1.25vw;
+  font-family: Abhaya Libre ExtraBold-Regular;
+  font-weight: NaN;
+  text-align: left;
+}
+
+.text_24 {
+  width: 102.23vw;
+  height: 0.07vw;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 2.43vw;
+  font-family: Italiana-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 2.44vw;
+  margin: 11.31vw 0 2.98vw 1.8vw;
+}
