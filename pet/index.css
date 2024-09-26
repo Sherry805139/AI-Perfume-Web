@@ -132,7 +132,7 @@
   width: 1013px;
   height: 52px;
   overflow-wrap: break-word;
-  color: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
   font-size: 40px;
   font-family: STSong;
   font-weight: NaN;
@@ -174,7 +174,7 @@
   width: 581px;
   height: 47px;
   overflow-wrap: break-word;
-  color: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
   font-size: 40px;
   font-family: STSong;
   font-weight: NaN;
@@ -323,7 +323,7 @@
   width: 700px;
   height: 38px;
   overflow-wrap: break-word;
-  color: rgba(0, 0, 0, 1);
+  color: rgba(255, 255, 255, 1);
   font-size: 40px;
   font-family: STSong;
   font-weight: NaN;
@@ -365,7 +365,7 @@
   font-size: 40px;
   font-family: Italiana-Regular;
   font-weight: NaN;
-  text-align: center;
+  text-align: left;
   white-space: nowrap;
   line-height: 40px;
   margin: 62px 0 4px 23px;
