@@ -31,12 +31,36 @@
   overflow-wrap: break-word;
   color: rgba(255, 255, 255, 1);
   font-size: 40px;
-  font-family: Italiana-Regular;
-  text-decoration: underline;
+  font-family: STSong;
   font-weight: NaN;
   text-align: left;
   white-space: nowrap;
   line-height: 40px;
+  cursor: pointer;
+}
+
+.text_1::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 19px;
+  /* 调整横线的位置 */
+  width: 112px;
+  height: 3.5px;
+  /* 横线的粗细 */
+  background-color: rgba(255, 255, 255, 1);
+  /* 横线的颜色 */
+  transform: scaleX(0);
+  /* 初始状态，横线不显示 */
+  transform-origin: left;
+  /* 横线从左向右展开 */
+  transition: transform 0.3s ease;
+  /* 过渡效果 */
+}
+
+.text_1:hover::after {
+  transform: scaleX(1);
+  /* 鼠标悬浮时，横线完全显示 */
 }
 
 .group_1 {
